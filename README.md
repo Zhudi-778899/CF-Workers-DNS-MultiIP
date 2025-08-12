@@ -1,7 +1,7 @@
 # CF-Workers-DNS-MultiIP
 以下是一个可以部署到CloudFlare Workers上的JavaScript代码，它会自动将一个域名解析到多个IP地址。这个脚本会使用CloudFlare的API来管理DNS记录。
 
-#环境变量配置说明
+# 环境变量配置说明
 现在你可以通过设置以下环境变量来配置脚本：
 
 | 变量名         | 必填 | 示例值                     | 说明 |
