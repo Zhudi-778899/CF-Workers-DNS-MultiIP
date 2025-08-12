@@ -1,0 +1,2 @@
+# CF-Workers-DNS-MultiIP
+以下是一个可以部署到CloudFlare Workers上的JavaScript代码，它会自动将一个域名解析到多个IP地址。这个脚本会使用CloudFlare的API来管理DNS记录。
